@@ -8,7 +8,6 @@ A single Bash script that gives you a **complete snapshot** of your Linux server
 
 ![Bash](https://img.shields.io/badge/Bash-5.0%2B-green?logo=gnubash&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
