@@ -1,10 +1,7 @@
-# Server_Performance_Stats
-=======
 # 📊 Server Performance Stats
 
 A single Bash script that gives you a **complete snapshot** of your Linux server's health — CPU, memory, disk, network, processes, and more — in a clean, color-coded dashboard.
 
-> Part of the [roadmap.sh DevOps Projects](https://roadmap.sh/projects/server-stats)
 
 ![Bash](https://img.shields.io/badge/Bash-5.0%2B-green?logo=gnubash&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&logoColor=white)
